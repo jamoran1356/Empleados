@@ -1,0 +1,8 @@
+Vanessa,Marquez,25,Femenino,Soltero(a),2500
+Jesus,Loyo,45,Masculino,Casado(a),2500
+Andres,Jimenez,25,Masculino,Soltero(a),2500
+Jose,Gonzalez,18,Masculino,Soltero(a),2500
+Jesus,Loyo,25,Femenino,Soltero(a),1522
+Jesus,Loyo,25,Femenino,Soltero(a),2500
+Isairek,Zambrano,36,Femenino,Casado(a),3600
+Jesus,Loyo,45,Masculino,Casado(a),3500
