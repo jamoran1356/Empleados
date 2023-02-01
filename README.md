@@ -1,16 +1,21 @@
 # Ejercicio AJAX
 
 Dado el siguiente conjunto de datos relativos a 5 empleados de una empresa
-__Nombre y Apellido
-__Edad de la persona
-__Estado avil
+
+Nombre y Apellido
+
+Edad de la persona
+
+Estado avil
 - Soltero(a)
 - Casado(a)
 - Viudo(a)
-__Sexo
+
+Sexo
 - Femenino
 - Masculino
-__Sueldo
+
+Sueldo
 
 __Se pide desarrollar un programa que permita el ingreso de los datos antes mencionado para determinar los siguientes puntos:
 * Total de empleados del sexo femenino
