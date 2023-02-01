@@ -69,8 +69,6 @@
         <td>Total Hombres<br>Casados<br>Sueldo > 2500</td>
         <td>Total Mujeres<br>Viudas<br>Sueldo > 100</td>
         <td>Edad Promedio <br>Hombres</td>
-        <td>Sexo</td>
-        <td>Sueldo</td>
     </tr>    
   </thead>
   <tbody>
